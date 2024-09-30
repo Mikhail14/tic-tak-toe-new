@@ -16,6 +16,9 @@ module.exports = {
       // gridTemplateRows: {
       //   "game-field": "repeat(3, 30px)"
       // }
+      lineHeight: {
+        "tight": "1.2"
+      }
     },
   },
   plugins: [],
